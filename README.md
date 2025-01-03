@@ -52,7 +52,7 @@
    
 <div align="left">
     <h3 style="color: #34a853;">𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚1️⃣</h3>
-    <a href="https://prince-new-base64-pair.onrender.com">
+    <a href="https://HASNAIN-new-base64-pair.onrender.com">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render">
     </a>
     <br>
@@ -145,7 +145,7 @@
 
 ---
 
-# 💠 [𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗙𝗢𝗥 𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧]
+# 💠 [𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗙𝗢𝗥 HASNAIN 𝗕𝗢𝗧]
 
 ### 🪄 𝘼𝙍𝘼𝘽𝙄𝘾 = 𝘼𝙍
 
