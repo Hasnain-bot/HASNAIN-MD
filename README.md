@@ -7,31 +7,32 @@
             alt="HASNAIN" 
             width="700" 
             height="400" 
-            src="https://qu.ax/xbxrc.jpg" 
+            src="https://i.imgur.com/iI086tX.jpeg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
         >
     </a>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 HASNAIN 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 𝗛𝗔𝗦𝗡𝗔𝗜𝗡 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
 </div>
 
-# <h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">HASNAIN 𝙈𝘿 𝘽𝙊𝙏</h1>
+# <h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝗛𝗔𝗦𝗡𝗔𝗜𝗡 𝙈𝘿 𝘽𝙊𝙏</h1>
 
 <div align="center">
     <a href="https://github.com/Hasnain-bot/HASNAIN-MD.git">
-        <img title="Author" src="https://img.shields.io/badge/HASNAKN%20𝑴𝑫%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
+        <img title="Author" src="https://img.shields.io/badge/HASNAIN%20𝑴𝑫%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
     </a>
     <br>
-    <a href="https://github.com/Hasnain-bot/HASNAIN-MD.git?tab=followers">
+    <a href="https://github.com/HASNAIN?tab=followers">
         <img title="Followers" src="https://img.shields.io/github/followers/HASNAIN?label=Followers&style=social">
     </a>
-    <a href="https://github.com/Hasnain-bot/HASNAIN-MD.git/stargazers/">
+    <a href="https://github.com/HASNAIN/HASNAINMD/stargazers/">
+        <img title="Stars" src="https://img.shields.io/github/stars/HASNAIN/HASNAINMD?style=social">
     </a>
-    <a href="https://github.com/Hasnain-bot/HASNAIN-MD.git/network/members">
-        <img title="Fork" src="https://github.com/Hasnain-bot/HASNAIN-MD.git?style=social">
+    <a href="https://github.com/HASNAIN/HASNAIN/network/members">
+        <img title="Fork" src="https://img.shields.io/github/forks/HASNAIN/HASNAINMD?style=social">
     </a>
-    <a href="https://github.com/Hasnain-bot/HASNAIN-MD.git/watchers">
+    <a href="https://github.com/HASNAIN/HASNAINMD/watchers">
         <img title="Watching" src="https://img.shields.io/github/watchers/HASNAIN/HASNAINMD?label=Watching&style=social">
     </a>
 </div>
@@ -53,14 +54,71 @@
 ## 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
 
 ### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 1️⃣
-[![Session](https://princesession-653c5b876049.herokuapp.com/)
+[![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://princesession-653c5b876049.herokuapp.com/)
 
+
+### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 2️⃣
+[![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-red?style=for-the-badge&logo=heroku&logoColor=white)](https://sessionp-ffd02587aaea.herokuapp.com)
+
+
+### 𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚 3️⃣
+[![Session](https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-blue?style=for-the-badge&logo=heroku&logoColor=yellow)](https://dead-christel-secktor-f9b56895.koyeb.app/)
 
 <br>
        
-<div align="center">
+ ### 🔵 𝙇𝙊𝙉𝙂 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙋𝘼𝙉𝙀𝙇𝙎
    
+</div>
+   
+<div align="left">
+    <h3 style="color: #34a853;">𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚1️⃣</h3>
+    <a href="https://prince-new-base64-pair.onrender.com">
+        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render">
+    </a>
+    <br>
+    <h3 style="color: #34a853;">𝙋𝙖𝙞𝙧 𝙘𝙤𝙙𝙚2️⃣</h3>
+    <a href="https://HASNAIN-MD-session-base64.onrender.com">
+        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render">
+    </a>
+</div>
 
+<div align="center">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
+
+
+
+# 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙊𝙋𝙏𝙄𝙊𝙉𝙎
+</div>
+<div align="center">
+    <a href="https://gd-sdeploy.vercel.app/">
+        <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
+    </a>
+    <a href="https://repl.it/github/DASTAGHIR/PRINCEMD">
+        <img height="30" title="Replit" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit">
+    </a>
+    <a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FDASTAGHIR%2FPRINCEMD">
+        <img height="30" title="Render" src="https://img.shields.io/badge/𝗥𝗘𝗡𝗗𝗘𝗥-E6E6FA?style=for-the-badge&logo=render">
+    </a>
+</div>
+
+<div align="center">
+    
+## 𝙍𝙐𝙉 𝙊𝙉 𝙆𝙊𝙔𝙀𝘽
+### 𝘊𝘭𝘪𝘤𝘬 𝘰𝘯 𝘵𝘩𝘪𝘴 𝘣𝘶𝘵𝘵𝘰𝘯, 𝘤𝘩𝘢𝘯𝘨𝘦 𝘵𝘩𝘦 𝘉𝘶𝘪𝘭𝘥𝘱𝘢𝘤𝘬 𝘵𝘰 𝘋𝘰𝘤𝘬𝘦𝘳𝘧𝘪𝘭𝘦, 𝘧𝘪𝘭𝘭 𝘪𝘯 𝘵𝘩𝘦 𝘷𝘢𝘳𝘪𝘢𝘣𝘭𝘦𝘴, 𝘤𝘭𝘪𝘤𝘬 𝘋𝘦𝘱𝘭𝘰𝘺, 𝘢𝘯𝘥 𝘸𝘢𝘪𝘵. 𝘌𝘯𝘫𝘰𝘺 𝘵𝘩𝘦 𝘣𝘰𝘵!
+
+
+<div align="center">
+    <p align="center">
+        <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/DASTAGHIR/PRINCEMD&branch=main&name=princegds&builder=dockerfile&env[SESSION_ID]=&env[BOT_NAME]=PRINCE-MD&env[OWNER_NUMBER]=9230926680000%3B%E2%9D%A3%EF%B8%8FPRINCE+THE+DEVELOPER&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[DATABASE_URL]=&env[ANTI_LINK]=false&env[AutoReaction]=false&env[STATUSVIEW]=false&env[STATUS_MSG]=Your+Status+has+been+seen+by+Prince+bot&env[REJECTSCALLS]=true&env[ANTIFAKE_USERS]=1%2C212%2C63%2C44&env[PACK_NAME]=Princebot%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[DL_MSG]=_📥DOWNLOADED+SUCCESSFULLY✅_">
+            <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="45"/>
+        </a>
+    </p>
+</div>
+
+## 💻𝘿𝙀𝙋𝙇𝙊𝙔 𝙊𝙉 𝙏𝘼𝙇𝙆 𝘿𝙍𝙊𝙑𝙀 𝙁𝙊𝙍 𝙁𝙍𝙀𝙀
+[![TALK DROVE](https://img.shields.io/badge/HOST.TALK-DROVE-blue?style=for-the-badge&logo=drove)](https://host.talkdrove.com/auth/signup?ref=0BEA2CA9)
 
 <br>
 
@@ -69,7 +127,7 @@
 
 ---
 
-# 🔥 HASNAIN 𝙈𝘿 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+# 🔥 𝗛𝗔𝗦𝗡𝗔𝗜𝗡 𝙈𝘿 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 
 ### 🔹 𝙌𝙐𝙍𝘼𝙉 𝙈𝙀𝙉𝙐
 
@@ -120,9 +178,21 @@
     </a>
 </p>
 
+<div align="center">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
+
+### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Click here](https://github.com/HASNAIN-MD/HASNAIN-MD/blob/main/LICENSE)
+
+<div align="left">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
+
 ---
 
-# 💠 [𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗙𝗢𝗥 𝐇𝐀𝐒𝐍𝐀𝐈𝐍 𝗕𝗢𝗧]
+# 💠 [𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗙𝗢𝗥 𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧]
 
 ### 🪄 𝘼𝙍𝘼𝘽𝙄𝘾 = 𝘼𝙍
 
