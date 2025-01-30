@@ -1,9 +1,4 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=blue&lines=𝐎𝐖𝐍𝐄𝐑+𝐇𝐀𝐒𝐍𝐀𝐈𝐍-𝐌𝐃)](https://git.io/typing-svg)              
-|--------------------------------|
-| [![Owner](https://i.ibb.co/Mk8CNQsX/temp-image.jpg)](https://github.com/sadiyamin/Alexa/) | [![𝐇𝐀𝐒𝐍𝐀𝐈𝐍-𝐌𝐃](https://i.imghippo.com/files/yFpQ9125wYo.jpg)])](https://github.com/Hasnain-bot/Hasnain-MD)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">    
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=HASNAIN%20-MD%&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
