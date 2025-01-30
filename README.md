@@ -25,23 +25,36 @@
 
 ## 🩷 **SESSION LINKS** 🩷
 ### ♦️ GET SESSION ID BELOW
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)]
+
+
 
 <p align="middle">
 <a href='https://hasnain-md-3e2241e74985.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=heruko=pink'/>
 </a>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ---
 
 ## 🩵 **DEPLOYMENT OPTION** 🪄
 <div 
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)]
+
+
+
+
+
 
   <p align="middle">
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Hasnain-bot/Hasnain-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
-(https://git.io/typing-svg)
+
 </div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ---
 
 
@@ -75,6 +88,7 @@
   </a>
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ---
 
 <div align="center">
