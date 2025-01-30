@@ -1,28 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)](https://git.io/typing-svg)
-
-<p align="left">
-<a href='https://hasnain-md-3e2241e74985.herokuapp.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
-
-<p align="left">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Hasnain-bot/Hasnain-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-</details>
-<hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+👑 HASNAIN-MD" alt="">
-<hr>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=blue&lines=𝐎𝐖𝐍𝐄𝐑+𝐇𝐀𝐒𝐍𝐀𝐈𝐍-𝐌𝐃)](https://git.io/typing-svg)              
@@ -30,15 +5,15 @@
 | [![Owner](https://i.ibb.co/Mk8CNQsX/temp-image.jpg)](https://github.com/sadiyamin/Alexa/) | [![𝐇𝐀𝐒𝐍𝐀𝐈𝐍-𝐌𝐃](https://i.imghippo.com/files/yFpQ9125wYo.jpg)])](https://github.com/Hasnain-bot/Hasnain-MD)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=DASTAGEER'S%20PRINCE%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=HASNAIN%20-MD%&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 <div align="center" style="margin: 30px; font-family: 'Segoe UI', sans-serif;">
     <a href="">
         <img 
-            alt="PRINCE BOT" 
+            alt="HASNAIN-MD" 
             width="720"
             height="420" 
-            src="https://qu.ax/UGCpR.jpg" 
+            src="https://i.ibb.co/Mk8CNQsX/temp-image.jpg" 
             style="border: 4px solid #FF69B4; 
                    border-radius: 20px; 
                    box-shadow: 0 8px 24px rgba(255, 105, 180, 0.3);"
@@ -49,29 +24,29 @@
         >
     </a>
 
-# ![HASNAIN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+HASNAIN-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+300%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY)
+# ![HASNAIN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=WELCOME+TO+HASNAIN-MD;+LET'S+GET+STARTED;+THANKS+FOR+CHOOSING+HASNAIN+MD)
 
 ---
 
-## 🌟 **SESSION LINKS** 🌟
-### 🔷 SHORT SESSIONS
-[![SESSION 1](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡-8A2BE2?style=for-the-badge&logo=heroku)](https://princesession-653c5b876049.herokuapp.com)
-[![SESSION 2](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡-FF69B4?style=for-the-badge&logo=heroku)](https://sessionp-ffd02587aaea.herokuapp.com) 
+## 🩷 **SESSION LINKS** 🩷
+### ♦️ GET SESSION ID BELOW
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)]
 
+<p align="middle">
+<a href='https://hasnain-md-3e2241e74985.herokuapp.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=heruko=pink'/>
+</a>
 
 ---
 
-## 🚀 **DEPLOYMENT**  
-<div align="center" style="margin: 20px 0;">
-  <a href="https://gd-sdeploy.vercel.app/">
-    <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
+## 🩵 **DEPLOYMENT OPTION** 🪄
+<div 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)]
 
-  </a>
-  <a href="https://app.koyeb.com/deploy">
-    <img src="https://img.shields.io/badge/KOYEB-000000?style=for-the-badge&logo=koyeb">
-  </a>
+  <p align="middle">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Hasnain-bot/Hasnain-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+(https://git.io/typing-svg)
 </div>
-
 ---
 
 
@@ -93,7 +68,9 @@
 🔹🤖✨ ALL OF YOUR NEEDS IN ONE BOT  
 ```
 
-
+<hr>
+<img src="http://readme-typing-svg.herokuapp.com?color=fa02d1&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+👑 𝐇𝐀𝐒𝐍𝐀𝐈𝐍-𝐌𝐃" alt="">
+<hr>
 ---
 
 ## 🌐 **SUPPORT**  
@@ -104,10 +81,6 @@
 </p>
 
 ---
-
-## 🎮 **AVAILABLE LANGUAGES**  
-
-UR (Urdu)      + EN (English)
 
 <div align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="60%"/>
