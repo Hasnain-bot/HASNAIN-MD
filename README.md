@@ -6,8 +6,8 @@
     <a href="">
         <img 
             alt="HASNAIN-MD" 
-            width="1080"
-            height="920" 
+            width="500"
+            height="350" 
             src="https://i.ibb.co/Mk8CNQsX/temp-image.jpg" 
             style="border: 4px solid #FF69B4; 
                    border-radius: 20px; 
