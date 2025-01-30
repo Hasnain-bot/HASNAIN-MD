@@ -28,7 +28,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)
 
 
 
@@ -42,7 +42,7 @@
 ## 🩵 **DEPLOYMENT OPTION** 🪄
 <div 
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)
 
 
 
