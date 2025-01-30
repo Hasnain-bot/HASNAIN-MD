@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href='https://github.com/Hasnain-bot/Hasnain-MD/pair.js' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>https://stormy-spire-11834-058ae5f87b5e.herokuapp.com/
 </a>
 
 
