@@ -20,3 +20,4 @@ else
     echo -e "${BOLD}${GREEN}$BOT_DIR directory not found, please ensure the bot is deployed correctly.\n${RESET}"
 fi
         
+
