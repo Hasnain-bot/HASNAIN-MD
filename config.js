@@ -1,178 +1,64 @@
-import { watchFile, unwatchFile } from 'fs'
-import chalk from 'chalk'
-import { fileURLToPath } from 'url'
-import fs from 'fs'
-import cheerio from 'cheerio'
-import fetch from 'node-fetch'
-import axios from 'axios'
-import moment from 'moment-timezone' 
-import dotenv from 'dotenv'
+const fs = require('fs');
+if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
-
-//💌------------------------------------------💌
-
-//BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
-//Only applies to option 2 (be a bot with an 8-digit text code)
-
-global.botNumberCode = "" //Example: +923092668108
-global.confirmCode = "" 
-
-
-//💌------------------------------------------💌
-
-
-
-
-
-//💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923180434543'] 
-global.prems = ['923180434543']
-global.allowed = ['923180434543']
-global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
-global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
-global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
-global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
-global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
-global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = "GataDiosV3"
-global.itsrose = ['4b146102c4d500809da9d1ff']
-global.baileys = '@whiskeysockets/baileys'
-global.apis = 'https://delirius-apiofc.vercel.app'
-global.openai_key = 'sk-...OzYy' /* Get your ApiKey at this link: https://platform.openai.com/account/api-keys */
-global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW'
-//💌------------------------------------------💌
-
-
-
-//💌------------------------------------------💌
-//CONFIG VARS. Do not touch them⚠️
-
-  global.vidcap = process.env.DL_MSG
-
-
-//💌------------------------------------------💌
-
-global.cheerio = cheerio
-global.fs = fs
-global.fetch = fetch
-global.axios = axios
-global.moment = moment	
-
-
-
-//💌------------------------------------------💌
-// APIS
-global.APIs = {
-  // API Prefix
-  // name: 'https://website'
-  xteam: 'https://api.xteam.xyz',
-  dzx: 'https://api.dhamzxploit.my.id',
-  lol: 'https://api.lolhuman.xyz',
-  violetics: 'https://violetics.pw',
-  neoxr: 'https://api.neoxr.my.id',
-  zenzapis: 'https://zenzapis.xyz',
-  akuari: 'https://api.akuari.my.id',
-  akuari2: 'https://apimu.my.id',
-  nrtm: 'https://fg-nrtm.ddns.net',
-  bg: 'http://bochil.ddns.net',
-  fgmods: 'https://api.fgmods.xyz'
+function convertToBool(text, fault = 'true') {
+    return text === fault ? true : false;
 }
-// 💌------------------------------------------💌
-
-
-
-//APIs keys
-global.APIKeys = {
-  // APIKey Here
-  // 'https://website': 'apikey'
-   'https://api.fgmods.xyz': 'm2XBbNvz',
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
-  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
-  'https://api.neoxr.my.id': `${keysneoxr}`,
-  'https://violetics.pw': 'beta',
-  'https://zenzapis.xyz': `${keysxxx}`
-   
-}
-
-//💌------------------------------------------💌
-
-
-
-// Bot Images 
-global.imagen1 = ("https://i.ibb.co/Mk8CNQsX/temp-image.jpg")
-//💌------------------------------------------💌
-
-
-// Randome
-global.princeImg = [imagen1]
-//💌------------------------------------------💌
-
-
-
-// Moderator 
-//Change to false to use the Bot from the same number as the Bot.
-global.isBaileysFail = false
-
-global.developer = 'https://api.whatsapp.com/send?phone=923180434543' //contact
-//💌------------------------------------------💌
-
-
-
-//Sticker WM
-global.wm = process.env.BOT_NAME
-global.botname = process.env.BOT_NAME
-global.princebot = '🩷HASNAIN-MD🩵'
-global.packname = process.env.PACK_NAME
-global.author = 'Hasnain♥️' 
-global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029Vb4R7KzG8l5CY2ckuf2r'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
-global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
-global.thumb = ('https://i.ibb.co/Mk8CNQsX/temp-image.jpg')
-//💌------------------------------------------💌
-
-
-
-//Reactions
-global.wait = '*`⏰ 𝙷𝚘𝚕𝚍 𝙾𝚗 𝙿𝚛𝚘𝚌𝚎𝚜𝚜𝚒𝚗𝚐...`*'
-global.imgs = '*🖼️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 ɪᴍᴀɢᴇs 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '♻️'
-global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
-global.xmoji = '🌀' 
-global.multiplier = 69 
-global.maxwarn = '2' 
-global.eror = '```404 error```'
-//💌------------------------------------------💌
-
-
-dotenv.config()
-
-const ownervb = process.env.OWNER_NUMBER;
-if (!ownervb){
-   throw new Error("OWNER_NUMBER var env is not set please set it e.g 923180434543,HASNAIN");
-}
-
-const ownerlist = ownervb.split(',');
-
-global.owner = [];
-for (let i = 0; i < ownerlist.length; i += 2) {
-    const owner = [
-        ownerlist[i],            
-        ownerlist[i + 1],         
-        true                        
-    ];
-    global.owner.push(owner);
-}
-
-
-
-let file = fileURLToPath(import.meta.url)
-watchFile(file, () => {
-  unwatchFile(file)
-  console.log(chalk.redBright("Update 'config.js'"))
-  import(`${file}?update=${Date.now()}`)
-})
+module.exports = {
+SESSION_ID: process.env.SESSION_ID || "",
+// add your Session Id 
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+// make true or false status auto seen
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
+// make true if you want auto reply on status 
+AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*SEEN YOUR STATUS BY HASNAIN-MD 🤍*",
+// set the auto reply massage on status reply  
+PREFIX: process.env.PREFIX || ".",
+// add your prifix for bot   
+BOT_NAME: process.env.BOT_NAME || "HASNAIN-MD",
+// add bot namw here for menu
+STICKER_NAME: process.env.STICKER_NAME || "HASNAIN-MD",
+// type sticker pack name 
+CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
+// make this true for custum emoji react    
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
+// chose custom react emojis by yourself 
+DELETE_LINKS: process.env.DELETE_LINKS || "true",
+// automatic delete links witho remove member 
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923180434543",
+// add your bot owner number
+OWNER_NAME: process.env.OWNER_NAME || "HASNAIN-MD",
+// add bot owner name
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝑯𝑨𝑺𝑵𝑨𝑰𝑵-𝑴𝑫*",
+// add bot owner name    
+ALIVE_IMG: process.env.ALIVE_IMG || "https://qu.ax/xbxrc.jpg",
+// add img for alive msg
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *HASNAIN-MD*⚡",
+// add alive msg here 
+READ_MESSAGE: process.env.READ_MESSAGE || "false",
+// Turn true or false for automatic read msgs
+AUTO_REACT: process.env.AUTO_REACT || "true",
+// make this true or false for auto react on all msgs
+ANTI_BAD: process.env.ANTI_BAD || "false",
+// false or true for anti bad words  
+MODE: process.env.MODE || "public",
+// make bot public-private-inbox-group 
+ANTI_LINK: process.env.ANTI_LINK || "true",
+// make anti link true,false for groups 
+AUTO_VOICE: process.env.AUTO_VOICE || "true",
+// make true for send automatic voices
+AUTO_STICKER: process.env.AUTO_STICKER || "true",
+// make true for automatic stickers 
+AUTO_REPLY: process.env.AUTO_REPLY || "true",
+// make true or false automatic text reply 
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+// maks true for always online 
+PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
+// make false if want private mod
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
+// true for automatic show typing   
+READ_CMD: process.env.READ_CMD || "false",
+// true if want mark commands as read 
+AUTO_RECORDING: process.env.AUTO_RECORDING || "true"
+// make it true for auto recoding 
+};
